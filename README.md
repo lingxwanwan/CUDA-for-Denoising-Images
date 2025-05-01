@@ -133,3 +133,4 @@ run the program using cmd
 
 ````make````
 
+Note: The data folder isn't available in the repo, you may need to add your own data as per file directory.
