@@ -74,35 +74,6 @@ To evaluate the performance of our image denoising algorithm, we use the followi
 
 We compare the performance of our GPU-accelerated solution with a CPU-only implementation. The comparison includes both the quality of the denoised images (using PSNR and SSIM) and the computational time required for denoising.
 
-
-
-## Results
-
-### Performance Metrics
-
-We evaluated the performance of our image denoising algorithm using the following metrics:
-
-1. **Peak Signal-to-Noise Ratio (PSNR)**: PSNR measures the ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. Higher PSNR values indicate better denoising performance.
-
-2. **Structural Similarity Index (SSIM)**: SSIM is a perceptual metric that quantifies image quality degradation caused by processing, such as data compression or denoising. SSIM values range from -1 to 1, with higher values indicating better similarity to the original image.
-
-### Performance Comparison
-
-We compared the performance of our GPU-accelerated solution with a CPU-only implementation. The comparison includes both the quality of the denoised images (using PSNR and SSIM) and the computational time required for denoising.
-
-## Results
-
-### Performance Metrics
-
-We evaluated the performance of our image denoising algorithm using the following metrics:
-
-1. **Peak Signal-to-Noise Ratio (PSNR)**: PSNR measures the ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. Higher PSNR values indicate better denoising performance.
-2. **Structural Similarity Index (SSIM)**: SSIM is a perceptual metric that quantifies image quality degradation caused by processing, such as data compression or denoising. SSIM values range from -1 to 1, with higher values indicating better similarity to the original image.
-
-### Performance Comparison
-
-We compared the performance of our GPU-accelerated solution with a CPU-only implementation. The comparison includes both the quality of the denoised images (using PSNR and SSIM) and the computational time required for denoising.
-
 ### Results
 
 The results of our experiments are as follows:
